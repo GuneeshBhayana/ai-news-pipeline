@@ -1,4 +1,4 @@
-AI News Pipeline
+AI News Pipeline 
 
 An automated data pipeline that fetches, categorizes, and summarizes AI-related news using the Google Gemini API.
 
